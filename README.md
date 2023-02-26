@@ -1,2 +1,2 @@
 # vijay_krish
-basic projects
+Dice project using HTML,CSS and Js
